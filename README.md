@@ -8,7 +8,7 @@
 
 ---
 
-<img align="left" alt="rlhollingshead's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rlhollingshead&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="rlhollingshead's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rlhollingshead&show_icons=true&hide_border=true&theme=highcontrast" />
 
 <!---
 rlhollingshead/rlhollingshead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
