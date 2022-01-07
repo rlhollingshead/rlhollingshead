@@ -7,8 +7,8 @@
 - 📫 How to reach me [to come]
 
 <br />
-<img align="left" alt="rlhollingshead | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
-<img align="left" alt="rlhollingshead | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
+[<img align="left" alt="rlhollingshead | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rlhollingshead | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br />
 
 ---
@@ -18,7 +18,6 @@
 [twitter]: https://twitter.com/rlhollingshead
 [instagram]: https://instagram.com/?
 [linkedin]: https://linkedin.com/in/rlhollingshead
-
 
 <!---
 rlhollingshead/rlhollingshead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
