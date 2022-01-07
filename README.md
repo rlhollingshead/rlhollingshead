@@ -6,10 +6,12 @@
 - 💞️ I’m looking to collaborate on [to come]
 - 📫 How to reach me [to come]
 
+<br />
+
 [<img align="left" alt="rlhollingshead | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 ---
-
+<br />
 <img align="left" alt="rlhollingshead's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rlhollingshead&show_icons=true&hide_border=true&theme=highcontrast" />
 
 
