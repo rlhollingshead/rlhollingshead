@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on [to come]
 - 📫 How to reach me [to come]
 
+---
+
+<img align="left" alt="rlhollingshead's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rlhollingshead&show_icons=true&hide_border=true" />
+
 <!---
 rlhollingshead/rlhollingshead is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
