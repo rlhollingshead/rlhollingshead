@@ -1,7 +1,7 @@
 ## Hi there! I'm Luke aka Daffy aka @rlhollingshead ...
 
 ### I'm a husband, father, mechatronic engineer and perpetual student!
-- 👋 I'm currently working on my PhD in rehabilitation robotics
+- 👋 I'm currently working to try and improve the safety of workers around conveyors
 - 🌱 I’m currently learning all sorts of things - software and hardware related.
 - 💞️ I’m looking to collaborate on [to come]
 - 📫 How to reach me [to come]
